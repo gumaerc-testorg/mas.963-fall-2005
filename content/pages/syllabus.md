@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes Technological Tools for School Reform, Course Requirements
+  and Grading Table.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
