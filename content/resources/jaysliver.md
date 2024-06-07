@@ -2,6 +2,7 @@
 content_type: resource
 description: Example of a student project.
 file: /courses/mas-963-technological-tools-for-school-reform-fall-2005/46c01e7e2f7bc52403c240cf728f8bb2_jaysliver.pdf
+file_size: 372555
 file_type: application/pdf
 learning_resource_types:
 - Projects

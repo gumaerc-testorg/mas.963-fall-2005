@@ -2,6 +2,7 @@
 content_type: resource
 description: Example of student work on the project brainstorming exercise.
 file: /courses/mas-963-technological-tools-for-school-reform-fall-2005/5d0dcb85f86c321b6e1ea30abfa752ca_andre_sher_proj.pdf
+file_size: 13665
 file_type: application/pdf
 learning_resource_types:
 - Projects

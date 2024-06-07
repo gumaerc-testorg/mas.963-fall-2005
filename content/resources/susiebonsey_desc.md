@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes the Project Overview and Questions.
 file: /courses/mas-963-technological-tools-for-school-reform-fall-2005/6e03c1cda3a83cf0a7549ac597d54ebe_susiebonsey_desc.pdf
+file_size: 19539
 file_type: application/pdf
 learning_resource_types:
 - Projects

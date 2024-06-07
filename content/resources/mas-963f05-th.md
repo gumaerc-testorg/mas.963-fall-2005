@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-963-technological-tools-for-school-reform-fall-2005/c91879487aa2248b87a7a761a10ed279_mas-963f05-th.jpg
+file_size: 2460
 file_type: image/jpeg
 image_metadata:
   caption: MIT has developed the $100 laptop with the goal of revolutionizing how
