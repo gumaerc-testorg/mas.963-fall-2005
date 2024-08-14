@@ -200,7 +200,7 @@ Gershenfeld, N. *FAB: The Coming Revolution on Your Desktop - From Personal Comp
 
 Lyon, C. "Encouraging Innovation by Engineering the Learning Curve." Mechanical Engineering Thesis, Massachusetts Institute of Technology, 2003. ([PDF - 7.3 MB](http://gig.media.mit.edu/GIGCD/latest/docs/lyon-thesis.pdf))
 
-Eisenberg, M. "Mindstuff: Educational Technology Beyond the Computer." *Convergence* 9, no. 2 (Summer 2003): 29-53. ([PDF](https://architecture.mit.edu/sites/architecture.mit.edu/files/attachments/lecture/Mindstuff.pdf))
+Eisenberg, M. "Mindstuff: Educational Technology Beyond the Computer." *Convergence* 9, no. 2 (Summer 2003): 29-53. 
 
 Mikhak, B., et al. "FAB LAB: An Alternate Model of ICT for Development." Paper presented at Development by Design Conference, Bangalore, India, 2002. ([PDF](http://gig.media.mit.edu/GIGCD/latest/docs/fablab-dyd02.pdf))
 
