@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes the Unit Mapping Assignments Guidelines.
-file: /courses/mas-963-technological-tools-for-school-reform-fall-2005/d4e341e66f42e07d4cde958637c69bd8_sb_guidelines.pdf
+file: /ol-ocw-studio-app/courses/mas-963-technological-tools-for-school-reform-fall-2005/d4e341e66f42e07d4cde958637c69bd8_sb_guidelines.pdf
 file_size: 35473
 file_type: application/pdf
 learning_resource_types:

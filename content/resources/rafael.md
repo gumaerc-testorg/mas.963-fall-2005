@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of a student project.
-file: /courses/mas-963-technological-tools-for-school-reform-fall-2005/e4125e0ed7852b6b9a4f1ab645037fdd_rafael.pdf
+file: /ol-ocw-studio-app/courses/mas-963-technological-tools-for-school-reform-fall-2005/e4125e0ed7852b6b9a4f1ab645037fdd_rafael.pdf
 file_size: 795354
 file_type: application/pdf
 learning_resource_types:
