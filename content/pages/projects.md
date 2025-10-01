@@ -27,7 +27,7 @@ Project Brainstorm ({{% resource_link 5d0dcb85-f86c-321b-6e1e-a30abfa752ca "PDF"
 Benjamin Mako Hill
 ------------------
 
-[Software Freedom](http://en.wikiversity.org/wiki/Software_Freedom)
+{{% resource_link "fbe7ee71-dec1-45dd-bf20-d3ba11fa40cd" "Software Freedom" %}}
 
 Seth Raphael
 ------------
